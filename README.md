@@ -10,6 +10,4 @@ Una actualización más para aprender git fetch
 
 Cambios desde mi rama local llamada developer01
 
-Esto es una modificación
-
-Cambio en la rama pepito
+estos cambios son solo en pepito
